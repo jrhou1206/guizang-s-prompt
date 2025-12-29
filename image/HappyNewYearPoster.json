@@ -1,6 +1,11 @@
 {
+    "applicable_models": [
+        "Seedream",
+        "Nano Banana Pro"
+    ],
     "subject": {
-        "description": "A visually striking, masterpiece-level 3D New Year's greeting card poster based on [Insert IP Name]. Vertical composition with a deep, window-like groove in the center.",
+        "IP_Name": "Enter the names of your favorite games, novels, movies, or TV shows.",
+        "description": "A visually striking, masterpiece-level 3D New Year's greeting card poster based on [IP Name]. Vertical composition with a deep, window-like groove in the center.",
         "material_style": "Felt and coarse knitting wool texture, realistic and delicate, blind box toy texture.",
         "central_character": {
             "identity": "A cute Q-version felt Pony (representing the Year of the Horse)",
