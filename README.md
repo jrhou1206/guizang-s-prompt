@@ -7,6 +7,7 @@
 ### 图像 (Image)
 
 - [Happy New Year Poster](./image/HappyNewYearPoster.json)
+- [Merry Christmas Poster](./image/Merry%20Christmas%20Poster.json)
 
 ### 文本 (Text)
 
