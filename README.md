@@ -31,6 +31,7 @@ Welcome to my prompt library! This repository contains all the high-quality AI p
 - [渐变拟物玻璃卡片风格 PPT](./image/渐变拟物玻璃卡片风格%20PPT.md)
 - [玻璃瓶微缩地点模型](./image/玻璃瓶微缩地点模型.md)
 - [社交媒体信息展示卡片](./image/社交媒体信息展示卡片.md)
+- [3D 信息图](./image/%203D信息图.md)
 
 ## 📝 文本 (Text)
 
